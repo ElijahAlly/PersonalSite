@@ -7036,6 +7036,9 @@ textarea.form-control-lg {
 .mx-2 {
   margin-right: 0.5rem !important;
   margin-left: 0.5rem !important;
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .mx-3 {
@@ -7561,7 +7564,7 @@ textarea.form-control-lg {
 }
 
 .text-white-50 {
-  color: rgba(255, 255, 255, 0.5) !important;
+  color: rgba(255, 255, 255, 0.5);
 }
 
 .text-reset {
@@ -11115,7 +11118,7 @@ body {
   height: auto;
   min-height: 35rem;
   padding: 15rem 0;
-  background: linear-gradient(to bottom, rgba(0, 0, 0, 0.3) 0%, rgba(0, 0, 0, 0.7) 75%, #000 100%), url("../assets/img/bg-masthead.jpg");
+  background: linear-gradient(to bottom, #0c0c0c 0%, rgba(0, 0, 0, 0.7) 40%, #000 120%), url("../assets/img/react.jpeg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -11250,4 +11253,38 @@ body {
 
 .footer {
   padding: 5rem 0;
+}
+
+.text-center .mb-5 {
+  background-color: #399a7d;
+  height: 31px;
+  display: flex;
+  justify-content: center;
+  border-radius: 10px;
+  color: black;
+}
+
+#my-name {
+  background-color: #399a7d;
+}
+
+.text-center .btn-primary {
+  background-color: #399a7d;
+  color: black;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+#body-profile-pic {
+  height: 20em;
+  clip-path: circle();
+  margin-bottom: 20px;
+}
+
+#header-profile-pic {
+  height: 50px;
+  margin-right: 7px;
+  clip-path: circle();
 }
