@@ -11289,3 +11289,7 @@ body::-webkit-scrollbar {
   margin-right: 7px;
   clip-path: circle();
 }
+
+#pg-header {
+  color: #399a7d;
+}
