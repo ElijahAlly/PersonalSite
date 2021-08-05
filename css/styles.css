@@ -11135,7 +11135,6 @@ body {
           background-clip: text;
 }
 .masthead h2, .masthead .h2 {
-  max-width: 20rem;
   font-size: 1rem;
 }
 @media (min-width: 768px) {
@@ -11263,6 +11262,7 @@ body {
   justify-content: center;
   border-radius: 10px;
   color: black;
+  padding: 15px;
 }
 
 #my-name {
@@ -11272,6 +11272,7 @@ body {
 .text-center .btn-primary {
   background-color: #399a7d;
   color: black;
+  border-radius: 10px;
 }
 
 body::-webkit-scrollbar {
