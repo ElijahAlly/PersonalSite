@@ -11335,9 +11335,7 @@ body::-webkit-scrollbar {
 }
 
 #body-profile-pic {
-  height: 20em;
   clip-path: circle();
-    /* margin-bottom: 42px; */
 }
 
 #header-profile-pic {
