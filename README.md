@@ -6,11 +6,11 @@
 
 Check out some of my active projects (Not garunteed to be finished or working)
 
-- [SeaTheMoss.com](https://seathemoss.com)
+[https://github.com/ElijahAlly/info-dig](https://github.com/ElijahAlly/info-dig)
+  - Be your own source of truth. Search for information which can be fact, in question, or fiction. Determined by the people, backed with context
 
-  - e-commerce webapp
+[https://github.com/ElijahAlly/NoJavaJobs](https://github.com/ElijahAlly/NoJavaJobs)
+  - Software Jobs, minus the ones that require Java :)
 
-- [FamilyWeeds.com](https://familyweeds.com)
-
-  - Share family memories and knowledge accross generations
-
+[https://github.com/ElijahAlly/steamy](https://github.com/ElijahAlly/steamy)
+  - A platform for streamers and their community
